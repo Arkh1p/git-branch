@@ -1,0 +1,6 @@
+C:\Users\Roma\source\repos\Mail Client\Mail Client\bin\Debug\Mail Client.exe.config
+C:\Users\Roma\source\repos\Mail Client\Mail Client\bin\Debug\Mail Client.exe
+C:\Users\Roma\source\repos\Mail Client\Mail Client\bin\Debug\Mail Client.pdb
+C:\Users\Roma\source\repos\Mail Client\Mail Client\obj\Debug\Mail Client.csprojAssemblyReference.cache
+C:\Users\Roma\source\repos\Mail Client\Mail Client\obj\Debug\Mail Client.exe
+C:\Users\Roma\source\repos\Mail Client\Mail Client\obj\Debug\Mail Client.pdb
